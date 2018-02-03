@@ -1,4 +1,2 @@
 # learningC
-
-hello
-
+hello world 
